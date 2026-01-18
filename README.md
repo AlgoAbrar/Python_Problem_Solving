@@ -31,8 +31,8 @@ The goal of this repository is to improve algorithmic thinking, data structures 
 3. **[Problem Name](https://github.com/your-username/your-repo/path-to-solution)**  
 
 
-## 🚀 Languages Used
-- Python 🐍
+## Languages Used
+- Python3
 
 ## 📈 Purpose
 - Practice Data Structures & Algorithms  
